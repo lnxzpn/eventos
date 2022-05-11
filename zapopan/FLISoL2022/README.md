@@ -23,7 +23,7 @@ Estaremos recibiendo sus propuestas hasta el **15 de Mayo** del 2022
 |  9:00 | Ejemplo de platica/taller _no borrar_ | [Linus Torvalds](torvalds.md) | Virtual/Presencial |
 | 10:00 |  |  |
 | 11:00 |  |  |
-| 12:00 |  |  |
+| 12:00 | Fedora Containers | [Alex Callejas](alexcallejas.md) | Virtual |
 | 13:00 |  |  |
 | 14:00 |  |  |
 | 15:00 |  |  |
