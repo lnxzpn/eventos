@@ -21,14 +21,12 @@ Estaremos recibiendo sus propuestas hasta el **15 de Mayo** del 2022
 | Hora  | Nombre de la Platica/Taller | Ponente | Lugar |
 | ---:  |           :---:             | :---    | :---  |
 |  9:00 | Ejemplo de platica/taller _no borrar_ | [Linus Torvalds](torvalds.md) | Virtual/Presencial |
-| 10:00 |  |  |
-| 11:00 |  |  |
+| 10:00 |  |  |  |
+| 11:00 |  |  |  |
 | 12:00 | Fedora Containers | [Alex Callejas](alexcallejas.md) | Virtual |
-| 13:00 |  |  |
-| 14:00 |  |  |
-| 15:00 |  |  |
-| 16:00 |  |  |
-| 17:00 |  |  |
-| 18:00 |  |  |
-| 19:00 |  |  |
+| 13:00 |  |  |  |
+| 14:00 |  |  |  |
+| 15:00 |  |  |  |
+| 16:00 <br> 19:00 | Taller de [KEME](https://keme.sourceforge.io/) contabilidad | [Gabriel Peña](gabrielpena.md)| Virtual |
+| 19:00 |  |  |  |
 
