@@ -24,7 +24,7 @@ Estaremos recibiendo sus propuestas hasta el **15 de Mayo** del 2022
 | 10:00 |  |  |  |
 | 11:00 |  |  |  |
 | 12:00 | Fedora Containers | [Alex Callejas](alexcallejas.md) | Virtual |
-| 13:00 |  |  |  |
+| 13:00 | Linux en arquitectura ARM | [Hazzim Anaya](HazzimAnaya.md) | Virtual/Presencial |
 | 14:00 |  |  |  |
 | 15:00 |  |  |  |
 | 16:00 <br> 18:00 | Taller de [KEME](https://keme.sourceforge.io/) contabilidad | [Gabriel Peña](gabrielpena.md)| Virtual |
