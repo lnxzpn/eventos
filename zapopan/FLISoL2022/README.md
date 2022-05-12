@@ -21,7 +21,7 @@ Estaremos recibiendo sus propuestas hasta el **15 de Mayo** del 2022
 | Hora  | Nombre de la Platica/Taller | Ponente | Lugar |
 | ---:  |           :---:             | :---    | :---  |
 |  9:00 |  |  |  |
-| 10:00 |  |  |  |
+| 10:00 | Como entrarle al Fediverso: redes sociales libres y federadas | Janik Ramírez | Virtual |
 | 11:00 |  |  |  |
 | 12:00 | Fedora Containers | [Alex Callejas](alexcallejas.md) | Virtual |
 | 13:00 | Linux en arquitectura ARM | [Hazzim Anaya](HazzimAnaya.md) | Virtual/Presencial |
