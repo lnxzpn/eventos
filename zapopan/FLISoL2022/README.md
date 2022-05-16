@@ -25,7 +25,7 @@ Estaremos recibiendo sus propuestas hasta el **15 de Mayo** del 2022
 | 11:00 |  |  |  |
 | 12:00 | Linux en arquitectura ARM | [Hazzim Anaya](HazzimAnaya.md) | Virtual/Presencial |
 | 13:00 | Fedora Containers | [Alex Callejas](alexcallejas.md) | Virtual |
-| 14:00 | Una breve introducción a HashiCorp Packer | [Mario García](MarioGarcia.md) | Virtual |
+| 14:00 | Guía de inicio de HashiCorp Packer | [Mario García](MarioGarcia.md) | Virtual |
 | 15:00 |  |  |  |
 | 16:00 <br> 18:00 | Taller de [KEME](https://keme.sourceforge.io/) contabilidad | [Gabriel Peña](gabrielpena.md)| Virtual |
 | 19:00 |  |  |  |
