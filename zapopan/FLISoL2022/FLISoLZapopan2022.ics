@@ -1,0 +1,167 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eventos OSSTecMM
+X-WR-TIMEZONE:America/Mexico_City
+X-WR-CALDESC:Eventos de OSSTecMM
+BEGIN:VEVENT
+DTSTART:20220520T150000Z
+DTEND:20220520T155000Z
+DTSTAMP:20220516T165230Z
+UID:38008lal0fl2qilrtu6lgchp6o@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/irs-wfus-bzo
+CLASS:PUBLIC
+CREATED:20220516T161104Z
+DESCRIPTION:<b>Ponente</b>: Janik Ramírez<br><span><br><br><b>Agenda</b>: <
+ a href="https://github.com/osstecmm/eventos/blob/main/zapopan/FLISoL2022/RE
+ ADME.md" id="ow1778" __is_owner="true">https://github.com/osstecmm/eventos/
+ blob/main/zapopan/FLISoL2022/README.md</a></span>\n\n-::~:~::~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not e
+ dit this section of the description.\n\nThis event has a video call.\nJoin:
+  https://meet.google.com/irs-wfus-bzo\n(US) +1 601-840-3075 PIN: 642273543#
+ \n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~::~:~::-
+LAST-MODIFIED:20220516T161104Z
+LOCATION:Cam. Arenero 1101\, 45019 Zapopan\, Jal.
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Como entrarle al Fediverso: redes sociales libres y federadas
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T170000Z
+DTEND:20220520T175000Z
+DTSTAMP:20220516T165230Z
+UID:535rp9vj49jttbh634qtmajp2g@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/irs-wfus-bzo
+CLASS:PUBLIC
+CREATED:20220516T161202Z
+DESCRIPTION:<html-blob><b>Ponente</b>: Hazzim Anaya<span><br></span></html-
+ blob><br><html-blob><span><br><b>Agenda</b>: <a href="https://github.com/os
+ stecmm/eventos/blob/main/zapopan/FLISoL2022/README.md">https://github.com/o
+ sstecmm/eventos/blob/main/zapopan/FLISoL2022/README.md</a></span></html-blo
+ b>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nThis ev
+ ent has a video call.\nJoin: https://meet.google.com/irs-wfus-bzo\n(US) +1 
+ 601-840-3075 PIN: 642273543#\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220516T161202Z
+LOCATION:Cam. Arenero 1101\, 45019 Zapopan\, Jal.
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Linux en arquitectura ARM
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T180000Z
+DTEND:20220520T185000Z
+DTSTAMP:20220516T165230Z
+UID:0ethko9je0skojqp1mbajhamat@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/irs-wfus-bzo
+CLASS:PUBLIC
+CREATED:20220516T161258Z
+DESCRIPTION:<html-blob><b>Ponente</b>: Alex Callejas<span><br></span><u></u
+ ><br><u></u><span><br><b>Agenda</b>: <a href="https://github.com/osstecmm/e
+ ventos/blob/main/zapopan/FLISoL2022/README.md">https://github.com/osstecmm/
+ eventos/blob/main/zapopan/FLISoL2022/README.md</a></span><u></u></html-blob
+ >\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nThis eve
+ nt has a video call.\nJoin: https://meet.google.com/irs-wfus-bzo\n(US) +1 6
+ 01-840-3075 PIN: 642273543#\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220516T161309Z
+LOCATION:Cam. Arenero 1101\, 45019 Zapopan\, Jal.
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Fedora Containers
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T190000Z
+DTEND:20220520T195000Z
+DTSTAMP:20220516T165230Z
+UID:57rjavpk9ml0iovjfl54bjv1gu@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/irs-wfus-bzo
+CLASS:PUBLIC
+CREATED:20220516T161353Z
+DESCRIPTION:<html-blob><u></u><b>Ponente</b>: Mario García<span><br></span>
+ <u></u><br><u></u><span><br><b>Agenda</b>: <a href="https://github.com/osst
+ ecmm/eventos/blob/main/zapopan/FLISoL2022/README.md">https://github.com/oss
+ tecmm/eventos/blob/main/zapopan/FLISoL2022/README.md</a></span><u></u><u></
+ u></html-blob>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description
+ .\n\nThis event has a video call.\nJoin: https://meet.google.com/irs-wfus-b
+ zo\n(US) +1 601-840-3075 PIN: 642273543#\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220516T161353Z
+LOCATION:Cam. Arenero 1101\, 45019 Zapopan\, Jal.
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Guía de inicio de HashiCorp Packer
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T210000Z
+DTEND:20220521T000000Z
+DTSTAMP:20220516T165230Z
+UID:4fujdh5h2bsbbqgs02ml1jqdvl@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/irs-wfus-bzo
+CLASS:PUBLIC
+CREATED:20220516T161616Z
+DESCRIPTION:<html-blob><b>Ponente</b>: Gabriel Peña<span><br></span><u></u>
+ <br><u></u><span><br><b>Agenda</b>: <a href="https://github.com/osstecmm/ev
+ entos/blob/main/zapopan/FLISoL2022/README.md">https://github.com/osstecmm/e
+ ventos/blob/main/zapopan/FLISoL2022/README.md</a></span><u></u><u></u><u></
+ u></html-blob>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description
+ .\n\nThis event has a video call.\nJoin: https://meet.google.com/irs-wfus-b
+ zo\n(US) +1 601-840-3075 PIN: 642273543#\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220516T161616Z
+LOCATION:Cam. Arenero 1101\, 45019 Zapopan\, Jal.
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Taller de KEME contabilidad
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T160000Z
+DTEND:20220520T165000Z
+DTSTAMP:20220516T165230Z
+UID:36fd40t6n1psf9ebovin72n924@google.com
+CLASS:PUBLIC
+CREATED:20220516T161707Z
+DESCRIPTION:<html-blob><b>Ponente</b>: <span>Miguel Bernal<br><br><b>Agenda
+ </b>: <a href="https://github.com/osstecmm/eventos/blob/main/zapopan/FLISoL
+ 2022/README.md">https://github.com/osstecmm/eventos/blob/main/zapopan/FLISo
+ L2022/README.md</a></span></html-blob>
+LAST-MODIFIED:20220516T161707Z
+LOCATION:Cam. Arenero 1101\, 45019 Zapopan\, Jal.
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ven y te ayudamos a instalar Linux en tu computadora
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T200000Z
+DTEND:20220520T205000Z
+DTSTAMP:20220516T165230Z
+UID:2otntoup127r3q8f2ufnhjenik@google.com
+CLASS:PUBLIC
+CREATED:20220516T161742Z
+DESCRIPTION:<u></u><b>Ponente</b>: <span>Miguel Bernal<br><br><b>Agenda</b>
+ : <a href="https://www.google.com/url?q=https://github.com/osstecmm/eventos
+ /blob/main/zapopan/FLISoL2022/README.md&amp\;sa=D&amp\;source=calendar&amp\
+ ;ust=1653149827317743&amp\;usg=AOvVaw2vRymS1P4nftpCzb3F7JCg" target="_blank
+ ">https://github.com/osstecmm/eventos/blob/main/zapopan/FLISoL2022/README.m
+ d</a></span><u></u>
+LAST-MODIFIED:20220516T161742Z
+LOCATION:Cam. Arenero 1101\, 45019 Zapopan\, Jal.
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ven y te ayudamos a instalar Linux en tu computadora
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
