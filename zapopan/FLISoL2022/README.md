@@ -15,4 +15,4 @@
 | 15:00 | Ven y te ayudamos a instalar <br> **Linux** en tu computadora | Miguel Bernal | Presencial |
 | 16:00 <br> 18:00 | Taller de [KEME](https://keme.sourceforge.io/) contabilidad | [Gabriel Peña](gabrielpena.md)| [Virtual](https://meet.google.com/irs-wfus-bzo)| <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NGZ1amRoNWgyYnNiYnFnczAybWwxanFkdmwgY18zb2lmNGU0bnZzaTFjYWE5NGVqN3Y5NjA5Z0Bn&amp;tmsrc=c_3oif4e4nvsi1caa94ej7v9609g%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_es.gif"></a>|
 
-Descarga el [calendario completo aquí](FLISoLZapopan2022.ics)
+Descarga el [calendario completo aquí](https://raw.githubusercontent.com/osstecmm/eventos/main/zapopan/FLISoL2022/FLISoLZapopan2022.ics)
