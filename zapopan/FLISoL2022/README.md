@@ -3,25 +3,12 @@
 * Fecha del evento: **20 de Mayo del 2022**
 * Lugar: [TecMM unidad académica Zapopan](https://goo.gl/maps/8fyaXKKnY9jaHaXB8)
 
-## ¿Comó registrar una ponencia?
-
-1. Favor de hacer un PR a este repositorio o comunicarse con
-   [miguelinux por telegram](https://t.me/miguelinux) si no quieren
-   hacer un PR.
-2. Agregar el nombre de la platica/Taller 
-3. Agregar un archivo con una pequeña biografía/reseña del ponente
-   y su nombre en la tabla.
-4. Definir como vas a participar Virtual (la escuela usa Google Meet para esto) 
-   o presencial para preparar el lugar
-
-Estaremos recibiendo sus propuestas hasta el **15 de Mayo** del 2022
-
 # Ponencias
 
 | Hora  | Nombre de la Platica/Taller | Ponente | Lugar |
 | ---:  |           :---:             | :---    | :---  |
 |  9:00 |  |  |  |
-| 10:00 | Como entrarle al Fediverso: redes sociales libres y federadas | Janik Ramírez | Virtual |
+| 10:00 | Como entrarle al Fediverso:<br> redes sociales libres y federadas | [Janik Ramírez](janikramiez.md)| Virtual |
 | 11:00 |  |  |  |
 | 12:00 | Linux en arquitectura ARM | [Hazzim Anaya](HazzimAnaya.md) | Virtual/Presencial |
 | 13:00 | Fedora Containers | [Alex Callejas](alexcallejas.md) | Virtual |
