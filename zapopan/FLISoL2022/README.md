@@ -8,7 +8,7 @@
 | Hora  | Nombre de la Platica/Taller | Ponente | Lugar |
 | ---:  |           :---:             | :---    | :---  |
 |  9:00 |  |  |  |
-| 10:00 | Como entrarle al Fediverso:<br> redes sociales libres y federadas | [Janik Ramírez](janikramiez.md)| Virtual |
+| 10:00 | Como entrarle al Fediverso:<br> redes sociales libres y federadas | [Janik Ramírez](janikramirez.md)| Virtual |
 | 11:00 |  |  |  |
 | 12:00 | Linux en arquitectura ARM | [Hazzim Anaya](HazzimAnaya.md) | Virtual/Presencial |
 | 13:00 | Fedora Containers | [Alex Callejas](alexcallejas.md) | Virtual |
