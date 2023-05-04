@@ -28,10 +28,10 @@ Estaremos recibiendo sus propuestas hasta el **15 de Mayo** del 2023
 | 12:00 |  |  |  |
 | 13:00 |  |  |  |
 | 14:00 |  |  |  |
-| 15:00 | Despliega tu gestor de contraseñas <br> usando infraestructura propia| Diego Go |  |
+| 15:00 | Despliega tu gestor de contraseñas <br> usando infraestructura propia| Diego Go | Virtual |
 | 16:00 |  |  |  |
 | 17:00 |  |  |  |
-| 18:00 |  |  |  |
+| 18:00 | TBD  | Andrés Tonejito | Virtual |
 | 19:00 |  |  |  |
 
 # Ponencias/Talleres 20 de Mayo
