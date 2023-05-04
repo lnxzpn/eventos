@@ -31,7 +31,7 @@ Estaremos recibiendo sus propuestas hasta el **15 de Mayo** del 2023
 | 15:00 | Despliega tu gestor de contraseñas <br> usando infraestructura propia| Diego Go | Virtual |
 | 16:00 |  |  |  |
 | 17:00 |  |  |  |
-| 18:00 |	[Entrega de tareas en `git`](https://tonejito.github.io/conferencias/tareas-git)	|	[Andrés Hernández - `tonejito` - `🐰`](tonejito.md)	|		|
+| 18:00 | [Entrega de tareas en `git`](https://tonejito.github.io/conferencias/tareas-git) | [Andrés Hernández - `tonejito` - `🐰`](tonejito.md) | Virtual |
 | 19:00 |  |  |  |
 
 # Ponencias/Talleres 20 de Mayo
