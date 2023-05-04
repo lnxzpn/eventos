@@ -1,4 +1,4 @@
-# Eventos del la comunidad de Linuxeros Zapopan
+# Eventos de la comunidad de Linuxeros Zapopan Jalisco México
 
 Este repositorio sirve para mostrar los eventos relacionados al
 **Open Source**.
