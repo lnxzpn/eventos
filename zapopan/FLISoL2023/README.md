@@ -24,7 +24,7 @@ Estaremos recibiendo sus propuestas hasta el **15 de Mayo** del 2023
 |  9:00 |  |  |  |
 | 10:00 |  |  |  |
 | 10:00 |  |  |  |
-| 11:00 | Pendiente | 0x4D7368 (Msh) | Virtual |
+| 11:00 | Software libre y educación: <br> ¿Cómo el usar software libre ayuda en <br> la formación de profesionales del <br> área de la computación? | 0x4D7368 (Msh) | Virtual |
 | 12:00 |  |  |  |
 | 13:00 |  |  |  |
 | 14:00 |  |  |  |
