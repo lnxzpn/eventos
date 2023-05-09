@@ -27,7 +27,7 @@ Estaremos recibiendo sus propuestas hasta el **15 de Mayo** del 2023
 | 11:00 | Software libre y educación: <br> ¿Cómo el usar software libre ayuda en <br> la formación de profesionales del <br> área de la computación? | 0x4D7368 (Msh) | Virtual |
 | 12:00 |  |  |  |
 | 13:00 |  |  |  |
-| 14:00 |  |  |  |
+| 14:00 | Introducción a la virtualización con LibVirt y Cockpit | Max Uribe | Precensial |
 | 15:00 | Despliega tu gestor de contraseñas <br> usando infraestructura propia| Diego Go | Virtual |
 | 16:00 |  |  |  |
 | 17:00 |  |  |  |
