@@ -1,6 +1,6 @@
 # MarKo Sánchez
 
-![markosh][https://avatars.githubusercontent.com/u/108446661?v=4]
+![markosh](https://avatars.githubusercontent.com/u/108446661?v=4)
 
 Estudiante de Ingeniería en Computación en la Facultad de Ingeniería (FI) de la Universidad Nacional Autónoma de México (UNAM), entusiasta del software libre y de código abierto, la música, la electrónica y el ciclismo.
 
