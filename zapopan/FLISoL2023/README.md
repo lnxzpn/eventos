@@ -25,7 +25,7 @@ Estaremos recibiendo sus propuestas hasta el **15 de Mayo** del 2023
 | 11:00 | Software libre y educación: <br> ¿Cómo el usar software libre ayuda en <br> la formación de profesionales del <br> área de la computación? | [Marco Antonio <br> Sánchez Hernández](marko.md) | Virtual |
 | 12:00 | [Como resolver el Problema XY? Sin miedo al éxito!](https://darkaxl017.fedorapeople.org/slides/Una_serie_de_eventos_inesperados_-_XY_Problem_-_FLISoL_2023.pdf) | [Alex Callejas](alexcallejas.md) | Virtual |
 | 13:00 |  |  |  |
-| 14:00 | Introducción a la virtualización con LibVirt y Cockpit | Max Uribe | Precensial |
+| 14:00 | Introducción a la virtualización con LibVirt y Cockpit | Angel Max <br> Uribe Alonso| Precensial |
 | 15:00 | Despliega tu gestor de contraseñas <br> usando infraestructura propia| Diego Go | Virtual |
 | 16:00 |  |  |  |
 | 17:00 |  |  |  |
