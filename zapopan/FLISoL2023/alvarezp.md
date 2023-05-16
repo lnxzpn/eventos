@@ -1,4 +1,4 @@
-# Octavio Alvarez - alvarezp
+# Octavio Alvarez Alvarez
 
 ![Octavio Alvarez - alvarezp](https://secure.gravatar.com/avatar/86807a1e86f6959eba73abae7f408941?s=200&d=identicon)
 
