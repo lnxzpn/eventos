@@ -13,7 +13,7 @@
 | 12:00 | [Como resolver el Problema XY? Sin miedo al éxito!](https://darkaxl017.fedorapeople.org/slides/Una_serie_de_eventos_inesperados_-_XY_Problem_-_FLISoL_2023.pdf) | [Alex Callejas](alexcallejas.md) | Virtual |
 | 13:00 |  |  |  |
 | 14:00 | Introducción a la virtualización con LibVirt y Cockpit | Angel Max <br> Uribe Alonso| Precensial |
-| 15:00 | Despliega tu gestor de contraseñas <br> usando infraestructura propia| Diego Go | Virtual |
+| 15:00 | Despliega tu gestor de contraseñas <br> usando infraestructura propia| [Diego Hernández Landeros](diegogou.md)| Virtual |
 | 16:00 | Ven y te ayudamos a instalar <br> **Linux** en tu computadora | [Miguel Bernal Marin](miguelinux.md) | Laboratorio LTI <br> Edificio de Sistemas |
 | 18:00 | [Entrega de tareas en `git`](https://tonejito.github.io/conferencias/tareas-git) | [Andrés Hernández <br> `tonejito` - `🐰`](tonejito.md) | Virtual |
 | 19:00 | Despedida y Cierre |  | Presencial/Virtual |
