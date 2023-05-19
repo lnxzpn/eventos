@@ -14,7 +14,7 @@
 | 13:00 |  |  |  |
 | 14:00 | Introducción a la virtualización con LibVirt y Cockpit | Angel Max <br> Uribe Alonso| Precensial |
 | 15:00 | Despliega tu gestor de contraseñas <br> usando infraestructura propia| [Diego Hernández Landeros](diegogou.md)| Virtual |
-| 16:00 | Ven y te ayudamos a instalar <br> **Linux** en tu computadora | [Miguel Bernal Marin](miguelinux.md) | Laboratorio LTI <br> Edificio de Sistemas |
+| 16:00 | Ven y te ayudamos a instalar <br> **Linux** en tu computadora | [Miguel Bernal Marin](miguelinux.md) | Laboratorio LWI <br> Edificio de Sistemas |
 | 18:00 | [Entrega de tareas en `git`](https://tonejito.github.io/conferencias/tareas-git) | [Andrés Hernández <br> `tonejito` - `🐰`](tonejito.md) | Virtual |
 | 19:00 | Despedida y Cierre |  | Presencial/Virtual |
 
