@@ -1,3 +1,9 @@
+# Fechas para el próximo año
+
+* 9 Sep: Natalicio de Dennis Ritche
+* 13 Sep: Día del programador
+* 16 Sep: Día del software libre
+
 # Eventos de la comunidad de Linuxeros Zapopan Jalisco México
 
 Este repositorio sirve para mostrar los eventos relacionados al
