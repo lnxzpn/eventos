@@ -2,7 +2,8 @@
 
 * 9 Sep: Natalicio de Dennis Ritche
 * 13 Sep: Día del programador
-* 16 Sep: Día del software libre
+* tercer sábado de cada mes de septiembre. : Día del software libre
+  https://es.wikipedia.org/wiki/D%C3%ADa_de_la_Libertad_de_Software
 
 # Eventos de la comunidad de Linuxeros Zapopan Jalisco México
 
