@@ -6,10 +6,11 @@ Este repositorio sirve para mostrar los eventos relacionados al
 
 ## Indice de eventos próximos
 
-* Registro de ponencias para [FLISoL 2023 Zapopan](/zapopan/FLISoL2023/README.md)
+* Registro de ponencias para [FLISoL 2024 Zapopan](/zapopan/FLISoL2024/README.md)
 
 ## Eventos previos
 
+* [FLISoL 2023 Zapopan](/zapopan/FLISoL2023/README.md)
 * [FLISoL 2022 Zapopan](/zapopan/FLISoL2022/README.md)
 
 ## Sedes
