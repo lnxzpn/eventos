@@ -28,7 +28,7 @@ Estaremos recibiendo sus propuestas hasta el **21 de Mayo** del 2022
 | 13:00 |  Fedora Containers Lab | [Alex Callejas](alexcallejas.md) | Presencial |            |
 | 14:00 |   Espacio para la comida    |         |Presencial|            |
 | 15:00 |                             |         |          |            |
-| 16:00 |                             |         |          |            |
+| 16:00 |                             |   Andrés Hernández <br> `tonejito` - `🐰`    |          |            |
 | 17:00 |                             |         |          |            |
 | 18:00 |                             |         |          |            |
 | 19:00 |                             |         |          |            |
