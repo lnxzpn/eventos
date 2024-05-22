@@ -27,8 +27,8 @@ Estaremos recibiendo sus propuestas hasta el **21 de Mayo** del 2022
 | 12:00 |  Como documentar técnicamente | [Alex Callejas](alexcallejas.md) | Presencial |            |
 | 13:00 |  Fedora Containers Lab | [Alex Callejas](alexcallejas.md) | Presencial |            |
 | 14:00 |   Espacio para la comida    |         |Presencial|            |
-| 15:00 |                             |         |          |            |
-| 16:00 |                             |   Andrés Hernández <br> `tonejito` - `🐰`    |          |            |
+| 15:00 |                             |   Andrés Hernández <br> `tonejito` - `🐰`        |          |            |
+| 16:00 |                             |     |          |            |
 | 17:00 |                             |         |          |            |
 | 18:00 |                             |         |          |            |
 | 19:00 |                             |         |          |            |
