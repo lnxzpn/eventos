@@ -20,7 +20,6 @@ Estaremos recibiendo sus propuestas hasta el **21 de Mayo** del 2022
 
 | Hora  | Nombre de la Plática/Taller | Ponente |  Lugar   | Calendario |
 | ---:  |           :---:             | :---    |  :---    |    :---:   |
-|  7:00 | Ejemplo de platica/taller _no borrar_ | [Linus Torvalds](../FLISoL2022/torvalds.md) | Virtual/Presencial |  |
 |  9:00 |                             |         |          |            |
 | 10:00 |                             |         |          |            |
 | 11:00 |  Detección avanzada de contenido duplicado y similar en almacenamientos desconectados | [alvarezp](alvarezp.md) | Por definir |            |
