@@ -14,7 +14,7 @@
 | 13:00 |  Fedora Containers Lab | [Alex Callejas](alexcallejas.md) | Edificio de<br>sistemas LIA |            |
 | 14:00 |   Espacio para la comida    |         |Presencial|            |
 | 15:00 | __Pendiente__ | [Andrés Hernández <br> `tonejito` - `🐰`](../FLISoL2023/tonejito.md) |Virtual|  |
-| 16:00 | __Pendiente__ | Angel Max<br>Uribe Alonso| Edificio de<br>sistemas LIA  |            |
+| 16:00 | Introducción a DNS con PowerDNS | Angel Max<br>Uribe Alonso| Edificio de<br>sistemas LIA  |            |
 | 17:00 | Instalación de<br>Linux en tu |        | sistemas |            |
 | 18:00 | computadora |        | LIA |            |
 | 19:00 | Despedida y Cierre |         |          |            |
