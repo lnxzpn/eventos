@@ -13,7 +13,7 @@
 | 12:00 |  Como documentar técnicamente | [Alex Callejas](alexcallejas.md) | Edificio de<br>sistemas LIA |            |
 | 13:00 |  Fedora Containers Lab | [Alex Callejas](alexcallejas.md) | Edificio de<br>sistemas LIA |            |
 | 14:00 |   Espacio para la comida    |         |Presencial|            |
-| 15:00 | __Pendiente__ | [Andrés Hernández <br> `tonejito` - `🐰`](../FLISoL2023/tonejito.md) |Virtual|  |
+| 15:00	| [Sitios web con WordPress](https://tonejito.github.io/conferencias/wordpress)	| [Andrés Hernández <br> `tonejito` - `🐰`](../FLISoL2023/tonejito.md)	| Virtual |	|
 | 16:00 | Introducción a DNS con PowerDNS | Angel Max<br>Uribe Alonso| Edificio de<br>sistemas LIA  |            |
 | 17:00 | Instalación de<br>Linux en tu |        | sistemas |            |
 | 18:00 | computadora |        | LIA |            |
