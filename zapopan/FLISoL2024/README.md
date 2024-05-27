@@ -9,7 +9,7 @@
 | ---:  |           :---:             | :---    |  :---    |    :---:   |
 |  9:50 | Inauguración |         |          |            |
 | 10:00 | Administración de referencias<br>bibliográficas con MENDELEY | Oscar Loreto Garibay| Edificio de<br>sistemas LIA|            |
-| 11:00 |  Detección avanzada de contenido duplicado y similar en almacenamientos desconectados | [alvarezp](alvarezp.md) | Por definir |            |
+| 11:00 |  Detección avanzada de contenido duplicado y similar en almacenamientos desconectados | [alvarezp](alvarezp.md) | Edificio de<br>sistemas LIA |            |
 | 12:00 |  Como documentar técnicamente | [Alex Callejas](alexcallejas.md) | Edificio de<br>sistemas LIA |            |
 | 13:00 |  Fedora Containers Lab | [Alex Callejas](alexcallejas.md) | Edificio de<br>sistemas LIA |            |
 | 14:00 |   Espacio para la comida    |         |Presencial|            |
