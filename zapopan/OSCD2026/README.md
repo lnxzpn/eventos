@@ -8,11 +8,11 @@
 
 | Hora | Evento | YouTube |
 |---|---|---|
-| 11:00 - 11:45 | **Fernando Gallardo**<br><br>*Open Source como solución y comunidad* | --- |
-| 12:00 - 13:00 | **Alex Callejas**<br><br>*Querida, encogí el clúster* | --- |
-| 14:00 - 14:45 | **Areli Octavio Solis**<br><br>*Software libre para el cumplimiento normativo* | --- |
-| 17:00 - 18:00 | **Víctor Morales**<br><br>*Contribuyendo a la traducción de la documentación de Kubernetes* | --- |
-| 18:00 - 19:00 | **Raúl González**<br><br>*GalaxIA - una red de IA soberana* | --- |
+| 11:00 - 11:45 | **Fernando Gallardo**<br><br>*Open Source como solución y comunidad* | [Enlace a la transmisión](https://www.youtube.com/watch?v=QGzbpmnpL5Y) |
+| 12:00 - 13:00 | **Alex Callejas**<br><br>*Querida, encogí el clúster* | [Enlace a la transmisión](https://www.youtube.com/watch?v=wD-GLYNx5GE) |
+| 14:00 - 14:45 | **Areli Octavio Solis**<br><br>*Software libre para el cumplimiento normativo* | [Enlace a la transmisión](https://www.youtube.com/watch?v=bjDi-nqIA80) |
+| 17:00 - 18:00 | **Víctor Morales**<br><br>*Contribuyendo a la traducción de la documentación de Kubernetes* | [Enlace a la transmisión](https://www.youtube.com/watch?v=tQiXV5FZ3fQ) |
+| 18:00 - 19:00 | **Raúl González**<br><br>*GalaxIA - una red de IA soberana* | [Enlace a la transmisión](https://www.youtube.com/watch?v=vin0oxsNTZM) |
 
 ---
 
